@@ -5,7 +5,7 @@
 
 # Multi-Client Chat Server
 
-A simple multi-client chat server implemented in Java using socket programming and threading.
+A simple multi-client chat  server implemented in Java using socket programming and threading.
 
 ## Features
 
